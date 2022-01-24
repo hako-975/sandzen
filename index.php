@@ -197,6 +197,24 @@
       </div>
     </section><!-- End Portfolio Section -->
 
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients section-bg">
+      <div class="container" data-aos="zoom-in">
+
+        <div class="row justify-content-center">
+          <div class="col-lg-4 col-md-6 col-12 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="dePlaza">
+          </div>
+
+          <div class="col-lg-4 col-md-6 col-12 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="Facebook marketplace">
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Clients Section -->
+
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
       <div class="container" data-aos="zoom-in">
@@ -368,15 +386,15 @@
               <h3>Kirim Saran Anda</h3>
               <div class="mb-3">
                 <label for="nama" class="form-label">Nama</label>
-                <input type="text" class="form-control" name="nama" id="nama" placeholder="Masukkan Nama">
+                <input type="text" class="form-control" required name="nama" id="nama" placeholder="Masukkan Nama">
               </div>
               <div class="mb-3">
                 <label for="email" class="form-label">Email</label>
-                <input type="email" class="form-control" name="email" id="email" placeholder="Masukkan Email">
+                <input type="email" class="form-control" required name="email" id="email" placeholder="Masukkan Email">
               </div>
               <div class="mb-3">
                 <label for="pesan" class="form-label">Isi Pesan</label>
-                <textarea class="form-control" name="pesan" id="pesan" rows="3" placeholder="Masukkan Isi Pesan"></textarea>
+                <textarea class="form-control" required name="pesan" id="pesan" rows="3" placeholder="Masukkan Isi Pesan"></textarea>
               </div>
               <div class="mb-3">
                 <button type="submit" name="btnKirimPesan" class="btn btn-danger">Kirim Pesan!</button>
@@ -415,7 +433,7 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>SandZen</h3>
             <p>
-              Jl. AMD Babakan Pocis No. 100. RT04/02, Bakti Jaya, Setu, Tangerang Selatan, Banten. Kode Pos 15315.
+              Jl. AMD Babakan Pocis No. 100. RT04/02, Bakti Jaya, Setu, Tangerang Selatan, Banten. Kode Pos 15315.<br>
               <strong>Phone:</strong> +62 878 0867 5313<br>
               <strong>Email:</strong> andrifirmansaputra1@gmail.com<br>
             </p>
