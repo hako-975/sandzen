@@ -139,7 +139,7 @@
               <h4>Kaos Polos</h4>
               <p>Rp. 45.000,-</p>
               <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" data-title="Kaos Polos" data-description="Rp. 45.000,-<br><br><a class='btn btn-primary' target='_blank' href='https://www.facebook.com/marketplace/item/296878875799647/'><i class='bi bi-cart4'></i> Beli</a>"><i class="bx bx-search"></i></a>
-              <a target="_blank" href="https://www.facebook.com/marketplace/item/296878875799647/" class="details-link" title="Kunjungi"><i class="bx bx-link"></i></a>
+              <a target="_blank" href="https://www.facebook.com/marketplace/item/296878875799647/" class="details-link" title="Kunjungi"><i class="bi bi-cart4"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-kaos">
@@ -148,7 +148,7 @@
               <h4>Kaos Seventeen</h4>
               <p>Rp. 35.000,-</p>
               <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" data-title="Kaos Seventeen" data-description="Rp. 35.000,- <br><br><a class='btn btn-primary' target='_blank' href='https://www.facebook.com/marketplace/item/618243246067769/'><i class='bi bi-cart4'></i> Beli</a>"><i class="bx bx-search"></i></a>
-              <a target="_blank" href="https://www.facebook.com/marketplace/item/618243246067769/" class="details-link" title="Kunjungi"><i class="bx bx-link"></i></a>
+              <a target="_blank" href="https://www.facebook.com/marketplace/item/618243246067769/" class="details-link" title="Kunjungi"><i class="bi bi-cart4"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-sandal">
@@ -157,7 +157,7 @@
               <h4>Slop Kicker</h4>
               <p>Rp. 25.000,-</p>
               <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" data-title="Slop Kicker" data-description="Rp. 25.000,- <br><br><a class='btn btn-primary' target='_blank' href='https://www.facebook.com/marketplace/item/519711819578632/'><i class='bi bi-cart4'></i> Beli</a>"><i class="bx bx-search"></i></a>
-              <a target="_blank" href="https://www.facebook.com/marketplace/item/519711819578632/" class="details-link" title="Kunjungi"><i class="bx bx-link"></i></a>
+              <a target="_blank" href="https://www.facebook.com/marketplace/item/519711819578632/" class="details-link" title="Kunjungi"><i class="bi bi-cart4"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-sandal">
@@ -166,7 +166,7 @@
               <h4>Joemen Sandal Pria Kulit</h4>
               <p>Rp. 42.750,-</p>
               <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" data-title="Joemen Sandal Pria Kulit" data-description="Rp. 42.750,- <br><br><a class='btn btn-primary' target='_blank' href='https://www.facebook.com/marketplace/item/4475802169209070/'><i class='bi bi-cart4'></i> Beli</a>"><i class="bx bx-search"></i></a>
-              <a target="_blank" href="https://www.facebook.com/marketplace/item/4475802169209070/" class="details-link" title="Kunjungi"><i class="bx bx-link"></i></a>
+              <a target="_blank" href="https://www.facebook.com/marketplace/item/4475802169209070/" class="details-link" title="Kunjungi"><i class="bi bi-cart4"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-sepatu">
@@ -175,7 +175,7 @@
               <h4>Sepatu Badminton</h4>
               <p>Rp. 71.250,-</p>
               <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" data-title="Sepatu Badminton" data-description="Rp. 71.250,- <br><br><a class='btn btn-primary' target='_blank' href='https://www.facebook.com/marketplace/item/335990454905392/'><i class='bi bi-cart4'></i> Beli</a>"><i class="bx bx-search"></i></a>
-              <a target="_blank" href="https://www.facebook.com/marketplace/item/335990454905392/" class="details-link" title="Kunjungi"><i class="bx bx-link"></i></a>
+              <a target="_blank" href="https://www.facebook.com/marketplace/item/335990454905392/" class="details-link" title="Kunjungi"><i class="bi bi-cart4"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-dompet">
@@ -184,7 +184,7 @@
               <h4>Bostanten Dompet Pria Kulit</h4>
               <p>Rp. 65.000,-</p>
               <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" data-title="Bostanten Dompet Pria Kulit" data-description="Rp. 65.000,- <br><br><a class='btn btn-primary' target='_blank' href='https://www.facebook.com/marketplace/item/904972293554283/'><i class='bi bi-cart4'></i> Beli</a>"><i class="bx bx-search"></i></a>
-              <a target="_blank" href="https://www.facebook.com/marketplace/item/904972293554283/" class="details-link" title="Kunjungi"><i class="bx bx-link"></i></a>
+              <a target="_blank" href="https://www.facebook.com/marketplace/item/904972293554283/" class="details-link" title="Kunjungi"><i class="bi bi-cart4"></i></a>
             </div>
           </div>
         </div>
