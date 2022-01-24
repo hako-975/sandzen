@@ -41,6 +41,16 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <style>
+    @media (max-width: 576px) 
+    {
+      .phone-size {
+        display: none;
+      }
+
+
+    }
+  </style>
 
   <!-- =======================================================
   * Template Name: BizLand - v3.7.0
@@ -57,7 +67,9 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
         <i class="bi bi-envelope d-flex align-items-center"><a target="_blank" href="mailto:andrifirmansaputra1@gmail.com">andrifirmansaputra1@gmail.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><a href="http://wa.me/6287808675313" target="_blank" target="_blank">+62 878 0867 5313</a></i>
+        <span class="phone-size ms-4">
+          <i class="bi bi-phone d-flex align-items-center"><a href="http://wa.me/6287808675313" target="_blank">+62 878 0867 5313</a></i>
+        </span>
       </div>
       <div class="social-links d-none d-md-flex align-items-center">
         <a href="https://twitter.com/HausCoding" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -87,7 +99,15 @@
     </div>
   </header><!-- End Header -->
 
-  <div id="hero" class="container-fluid"></div>
+  <div id="hero" class="container-fluid">
+    <div class="container-fluid">
+      <div class="row justify-content-end text-center">
+        <div class="col-lg-4 col-12" style="position: absolute; bottom: 50px;">
+          <a href="#portfolio" class="btn-get-started btn btn-warning scrollto fw-bold"><i class="bi bi-cart4"></i> Belanja Sekarang!</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <main id="main">
 
