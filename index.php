@@ -89,7 +89,8 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Produk</a></li>
+          <li><a class="nav-link scrollto" href="#produk">Produk</a></li>
+          <li><a class="nav-link scrollto" href="#artikel">Artikel</a></li>
           <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
           <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
         </ul>
@@ -103,7 +104,7 @@
     <div class="container-fluid">
       <div class="row justify-content-end text-center">
         <div class="col-lg-4 col-12" style="position: absolute; bottom: 50px;">
-          <a href="#portfolio" class="btn-get-started btn btn-warning scrollto fw-bold"><i class="bi bi-cart4"></i> Belanja Sekarang!</a>
+          <a href="#produk" class="btn-get-started btn btn-warning scrollto fw-bold"><i class="bi bi-cart4"></i> Belanja Sekarang!</a>
         </div>
       </div>
     </div>
@@ -112,7 +113,7 @@
   <main id="main">
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <section id="produk" class="portfolio">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -196,6 +197,28 @@
         </div>
       </div>
     </section><!-- End Portfolio Section -->
+
+    <section id="artikel">
+      <div class="container" data-aos="fade-up">
+        
+        <div class="section-title">
+          <h2>Artikel</h2>
+        </div>
+
+        <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-4">
+            <div class="card">
+              <img class="img-fluid" src="assets/img/artikel/artikel1.jpg" class="card-img-top" alt="PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy">
+              <div class="card-body">
+                <h5 class="card-title">PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy</h5>
+                <p class="card-text">PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy Saat ini banyak sekali yang menjual dan menawarkan Sepatu Badminton di kota Tangerang...</p>
+                <a href="artikel1-sepatu-badminton.php" class="btn btn-primary">Selengkapnya <i class="bx bx-chevron-right"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients section-bg">
@@ -443,7 +466,7 @@
             <h4>Tautan</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#hero">Beranda</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Produk</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#produk">Produk</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#faq">FAQ</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#contact">Kontak</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
