@@ -211,6 +211,7 @@
               <img class="img-fluid" src="assets/img/artikel/artikel1.jpg" class="card-img-top" alt="PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy">
               <div class="card-body">
                 <h5 class="card-title">PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy</h5>
+                <p class="text-muted">Selasa, 08 Februari 2022 08:00 WIB</p>
                 <p class="card-text">PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy Saat ini banyak sekali yang menjual dan menawarkan Sepatu Badminton di kota Tangerang...</p>
                 <a href="artikel1-sepatu-badminton.php" class="btn btn-primary">Selengkapnya <i class="bx bx-chevron-right"></i></a>
               </div>

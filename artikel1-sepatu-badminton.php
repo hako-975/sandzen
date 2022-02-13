@@ -91,6 +91,7 @@
         <div class="col">
           <h2>PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy</h2>
           <img class="img-fluid" width="300" src="assets/img/artikel/artikel1.jpg" class="card-img-top" alt="PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy">
+          <p class="text-muted">Selasa, 08 Februari 2022 08:00 WIB</p>
           <p style="text-align: justify;">
             PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy Saat ini banyak sekali yang menjual dan menawarkan Sepatu Badminton di kota Tangerang, jika kita mencari di Google / internet dengan kata kunci "SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy di kota Tangerang" maka Google akan menampilkan sederet website yang menjual peralatan Sepatu Badminton yang menawarkan penjualan Sepatu Badminton sampai ke daerah pelosok kota Tangerang. Anak-anak kampus terutama anak <a target="_blank" href="https://unpam.ac.id/">UNPAM</a> senang sekali dengan bermain badminton. Kami juga bermitra dengan <a target="_blank" href="https://digimind.id/">Digimind</a> yang membantu kami dalam memasarkan produk.
           </p>
