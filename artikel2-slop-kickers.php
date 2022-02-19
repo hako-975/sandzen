@@ -89,30 +89,27 @@
     <div class="container" data-aos="fade-up">
       <div class="row" data-aos="fade-up" data-aos-delay="100">
         <div class="col">
-          <h2>PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy</h2>
-          <img class="img-fluid" width="300" src="assets/img/artikel/artikel1.jpg" class="card-img-top" alt="PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy">
-          <p class="text-muted">Selasa, 08 Februari 2022 08:00 WIB</p>
+          <h2>Kisah Slop Kickers di era pandemi</h2>
+          <img class="img-fluid" width="300" src="assets/img/artikel/artikel2.jpg" class="card-img-top" alt="Slop Kickers">
+  	      <p class="text-muted">Sabtu, 19 Februari 2022 22:10 WIB</p>
           <p style="text-align: justify;">
-            PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy Saat ini banyak sekali yang menjual dan menawarkan Sepatu Badminton di kota Tangerang, jika kita mencari di Google / internet dengan kata kunci "SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy di kota Tangerang" maka Google akan menampilkan sederet website yang menjual peralatan Sepatu Badminton yang menawarkan penjualan Sepatu Badminton sampai ke daerah pelosok kota Tangerang. Anak-anak kampus terutama anak <a target="_blank" href="https://unpam.ac.id/">UNPAM</a> senang sekali dengan bermain badminton. Kami juga bermitra dengan <a target="_blank" href="https://digimind.id/">Digimind</a> yang membantu kami dalam memasarkan produk.
+            Slop Kickers di era pandemi ini banyak pengusaha yang menjual produk tersebut. Mereka berusaha untuk bertahan di era pandemi ini meski produksi dan omset turun. Hal ini salah satunya dialami para pengrajin rumahan sandal di Jombang.  Wilayah tersebut menjadi salah satu tempat pengrajin sandal selama puluhan tahun. Mayoritas warga menjadi pengrajin sandal dan sepatu.
+			Anak-anak kampus terutama anak <a target="_blank" href="https://unpam.ac.id/">UNPAM</a> senang sekali dengan mendaki. Kami juga bermitra dengan <a target="_blank" href="https://digimind.id/">Digimind</a> yang membantu kami dalam memasarkan produk.
           </p>
           <p style="text-align: justify;">
-            Namun demikian sederetan website yang muncul dari halaman pencarian google adalah sebagian besar merupakan website distributor maupun toko yang menawarkan pembelian secara online dan barang akan dikirim ke kota Tangerang via beberapa alternatif Ekspedisi yang melayani pengiriman sampai ke daerah pelosok kota Tangerang, adapun posisi / alamat / distributor tersebut jauh berada di luar provinsi, sehingga untuk melakukan transaksinya dengan prosedur yang lumayan sulit ditambah lagi dengan ongkos atau biaya kirim yang nominalnya tidak sedikit dan juga beberapa resiko pengiriman barang sebagaimana resiko berbelanja secara online lainnya.
-          </p>
-          <p style="text-align: justify;">
-            Kami dari SandZen, distributor Sepatu Badminton yang beralamat di kota Tangerang Selatan menjual dan menerima pesanan Sepatu Badminton / Kaos Polos / Dompet dengan harga termurah, kami juga melayani penjualan / transaksi secara online ke Seluruh wilayah Indonesia, dengan menggunakan jasa pengiriman yang Aman dan terpercaya.
-            Bagi yang ingin berkonsultasi masalah dan pelatihan tentang website, kalian bisa mengunjungi website <a target="_blank" href="https://babastudio.com/">Baba Studio</a>.
+            Menurutnya, yang membuat usahanya tetap bertahan adalah menjaga kualitas. Tak heran jika sandal buatannya sangat diminati kalangan tertentu yang menginginkan ukuran sandalnya benar-benar cocok untuk dipakai. 
           </p>
           <p>Ikuti juga:</p>
           <div class="row justify-content-center">
-            <div class="col-lg text-center">
-              <iframe src="https://www.youtube.com/embed/Pp-yLXitm9c"></iframe>
-            </div>
-            <div class="col-lg text-center">
-              <iframe src="https://www.youtube.com/embed/wpXvnxg_0T0"></iframe>
-            </div>
-            <div class="col-lg text-center">
-              <iframe src="https://www.youtube.com/embed/B8IIAMXig2c"></iframe>
-            </div>
+          	<div class="col-lg text-center">
+          		<iframe src="https://www.youtube.com/embed/Pp-yLXitm9c"></iframe>
+          	</div>
+          	<div class="col-lg text-center">
+          		<iframe src="https://www.youtube.com/embed/wpXvnxg_0T0"></iframe>
+          	</div>
+          	<div class="col-lg text-center">
+          		<iframe src="https://www.youtube.com/embed/B8IIAMXig2c"></iframe>
+          	</div>
           </div>
         </div>
       </div>
@@ -209,4 +206,4 @@
 
 </body>
 
-</html>
+</html>artikel2-slop-kickers

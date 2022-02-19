@@ -212,8 +212,19 @@
               <div class="card-body">
                 <h5 class="card-title">PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy</h5>
                 <p class="text-muted">Selasa, 08 Februari 2022 08:00 WIB</p>
-                <p class="card-text">PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy Saat ini banyak sekali yang menjual dan menawarkan Sepatu Badminton di kota Tangerang...</p>
+                <p class="card-text">PALING LAKU! SEPATU BADMINTON Jf Rs model Terbaru Sporty Trandy Saat ini...</p>
                 <a href="artikel1-sepatu-badminton.php" class="btn btn-primary">Selengkapnya <i class="bx bx-chevron-right"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="card">
+              <img class="img-fluid" src="assets/img/artikel/artikel2.jpg" class="card-img-top" alt="PALING LAKU! Slop Kickers">
+              <div class="card-body">
+                <h5 class="card-title">Kisah Slop Kickers di era pandemi</h5>
+                <p class="text-muted">Sabtu, 19 Februari 2022 22:10 WIB</p>
+                <p class="card-text">Slop Kickers di era pandemi ini banyak pengusaha yang menjual...</p>
+                <a href="artikel2-slop-kickers.php" class="btn btn-primary">Selengkapnya <i class="bx bx-chevron-right"></i></a>
               </div>
             </div>
           </div>
