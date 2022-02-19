@@ -206,4 +206,4 @@
 
 </body>
 
-</html>artikel2-slop-kickers
+</html>
